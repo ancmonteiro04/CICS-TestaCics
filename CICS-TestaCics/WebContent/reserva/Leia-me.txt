@@ -1,0 +1,24 @@
+Para executar este exercício:
+============================
+
+http://localhost:8080/struts10
+
+Como Ativar o Validator em um Form Dinâmico:
+============================================
+
+1. Configurar o plugin
+   - Validator-rules.xml
+   - validation.xml
+
+2. Definir no struts-config.xml o form bean dinâmico que é do tipo  
+   DynaValidatorForm.
+
+3. Definir no arquivo validation.xml o form bean que será validado.
+
+4. Colocar na página JSP o tag <html:errors/> para exibir os erros.
+
+5. Definir no Message Resource Bundle do módulo de aplicação as 
+   entradas que são utilizadas pelo tag <html:errors/> e as 
+   mensagens de erro do validator.
+
+
