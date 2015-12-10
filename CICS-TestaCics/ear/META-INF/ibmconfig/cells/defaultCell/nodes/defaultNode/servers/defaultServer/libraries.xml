@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libraries:Library xmi:version="2.0"
+	xmlns:xmi="http://www.omg.org/XMI"
+	xmlns:libraries="http://www.ibm.com/websphere/appserver/schemas/5.0/libraries.xmi"
+	xmi:id="Library_20151209144933943" name="BSAD3">
+	<classPath>C:\bsad3\Bibliotecas</classPath>
+</libraries:Library>
