@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<webappbnd:WebAppBinding xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:webappbnd="webappbnd.xmi" xmi:id="WebAppBinding_20151209144933943" virtualHostName="default_host">
+  <webapp href="WEB-INF/web.xml#WebApp_ID"/>
+  <resourceEnvRefBindings xmi:id="ResourceEnvRefBinding_20151209144933943" jndiName="jdbc/CICS-TestaCics">
+    <bindingResourceEnvRef href="WEB-INF/web.xml#ResourceEnvRef_20151209144933943"/>
+  </resourceEnvRefBindings>
+</webappbnd:WebAppBinding>
