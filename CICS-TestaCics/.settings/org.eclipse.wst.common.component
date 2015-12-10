@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="CICS-TestaCics">
-        <wb-resource deploy-path="/" source-path="/ear"/>
-        <dependent-module archiveName="CICS-TestaCics-web.war" deploy-path="/" handle="module:/resource/CICS-TestaCics-web/CICS-TestaCics-web">
-            <dependent-object>WebModule_20151209144933943</dependent-object>
-            <dependency-type>uses</dependency-type>
-        </dependent-module>
-    </wb-module>
-</project-modules>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<appdeployment:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:appdeployment="http://www.ibm.com/websphere/appserver/schemas/5.0/appdeployment.xmi" xmi:id="Dep_20151209144933943">
-  <deployedObject xmi:type="appdeployment:ApplicationDeployment" xmi:id="AppDep_20151209144933943" startingWeight="10">
-    <modules xmi:type="appdeployment:WebModuleDeployment" xmi:id="WebDep_20151209144933943" startingWeight="10000" uri="CICS-TestaCics-web.war"/>
-    <classloader xmi:id="CL_20151209144933943" mode="PARENT_LAST">
-		<libraries xmi:id="LibraryRef_20151209144933943" libraryName="BSAD3" />
-    </classloader>
-  </deployedObject>
-</appdeployment:Deployment>
